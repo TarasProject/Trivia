@@ -15,7 +15,7 @@ body {
   padding-right: 15px;
 }
 
-.jumbotron {
+.header {
   background-color: #01b4bc;
   color: #fff;
   margin-bottom: 2rem;
@@ -64,9 +64,9 @@ input[type="text"]:hover {
 }
 
 .incorrect {
-  background-color: #fa5457;
+  background-color: #f8410a;
 }
 
 .correct {
-  background-color: #5fa55a;
+  background-color: #8fc08c;
 }
